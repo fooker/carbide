@@ -1,0 +1,3 @@
+[submodule "carbide/extern/grbl"]
+	path = carbide/extern/grbl
+	url = https://github.com/gnea/grbl.git

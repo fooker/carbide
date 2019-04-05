@@ -1,0 +1,7 @@
+[package]
+name = "carbide-gcode"
+version = "0.1.0"
+authors = ["Dustin Frisch <fooker@lab.sh>"]
+edition = "2018"
+
+[dependencies]
